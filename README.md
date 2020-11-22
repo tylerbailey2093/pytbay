@@ -1,4 +1,6 @@
-# nbdev template
+# nbdev demo
 
-Use this template to more easily create your nbdev project.
+Website: https://tylerbailey2093.github.io/pytbay/
+
+TODO: Add description.
 
